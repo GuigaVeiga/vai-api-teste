@@ -1,0 +1,2 @@
+insert into item (nome, descricao, categoria, data_aquisicao) values ('Linguica','Linguica Perdigao', 'Frios', sysdate());
+insert into item (nome, descricao, categoria, data_aquisicao) values ('Queijo Mussarela','De  última qualidade, o mais vendido', 'Frios', sysdate());
